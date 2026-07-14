@@ -1,9 +1,0 @@
-{
-  "name": "BarberBench IQ",
-  "short_name": "BarberBench",
-  "description": "Know your numbers. Grow your business.",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#071713",
-  "theme_color": "#071713"
-}
